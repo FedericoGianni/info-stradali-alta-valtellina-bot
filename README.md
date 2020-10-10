@@ -13,3 +13,5 @@ bot telegram che segnala aggiornamenti sulla viabilità, cercando in modo automa
 [![GREEN](https://placehold.it/15/44bb44/44bb44)][https://www.comune.livigno.so.it/viabilita](https://www.comune.livigno.so.it/viabilita)  
 [![GREEN](https://placehold.it/15/44bb44/44bb44)][https://www.comune.sondalo.so.it/viabilita](https://www.comune.sondalo.so.it/viabilita)  
 [![GREEN](https://placehold.it/15/44bb44/44bb44)][https://www.cmav.so.it/viabilita](https://www.cmav.so.it/viabilita)  
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
